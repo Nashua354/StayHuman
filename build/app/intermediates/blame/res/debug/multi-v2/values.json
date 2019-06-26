@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nitish/Sites/projects/flutter_projects/personal_projects/stayhuman/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/nitish/Sites/projects/flutter_projects/personal_projects/StayHuman/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/nitish/Sites/projects/flutter_projects/personal_projects/stayhuman/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/nitish/Sites/projects/flutter_projects/personal_projects/StayHuman/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
